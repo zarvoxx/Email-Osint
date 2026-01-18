@@ -1,4 +1,4 @@
-# ⚡ Zarvox Ghost-OSINT v3.0
+# ⚡ Zarvox Email-Osint v1.0
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-red?style=for-the-badge&logo=python&logoColor=white">
